@@ -62,9 +62,8 @@
       "When I'm not coding, you'll find me exploring the latest in cloud technologies, contributing to open-source projects, or sharing knowledge through technical blog posts. I believe in continuous learning and staying at the forefront of technology trends to deliver innovative solutions."
     ],
     "stats": [
-      { "number": "50+", "label": "Projects" },
-      { "number": "5+", "label": "Years" },
-      { "number": "1000+", "label": "Commits" }
+      { "number": "20+", "label": "Projects" },
+      { "number": "2+", "label": "Years" }
     ],
     "social": [
       { "platform": "GitHub", "icon": "fab fa-github", "url": "https://github.com/roced-spec" },
