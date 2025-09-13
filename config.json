@@ -1,0 +1,145 @@
+{
+  "site": {
+    "title": "BitWeaver - Software Engineer",
+    "logo": "{ weaver.dev }",
+    "copyright": "© 2024 BitWeaver. All rights reserved."
+  },
+  "sectionOrder": ["home", "about", "experience", "projects", "skills", "contact"],
+  "sections": {
+    "home": {
+      "title": "Home",
+      "navLabel": "Home",
+      "cta": {
+        "primary": "View Projects",
+        "secondary": "Get In Touch"
+      }
+    },
+    "about": {
+      "title": "About Me",
+      "navLabel": "About"
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "navLabel": "Experience"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "navLabel": "Projects"
+    },
+    "skills": {
+      "title": "Skills & Technologies",
+      "navLabel": "Skills"
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "navLabel": "Contact"
+    }
+  },
+  "themes": [
+    { "value": "github", "label": "GitHub Dark" },
+    { "value": "dracula", "label": "Dracula" },
+    { "value": "monokai", "label": "Monokai" },
+    { "value": "nord", "label": "Nord" },
+    { "value": "gruvbox", "label": "Gruvbox" },
+    { "value": "solarized", "label": "Solarized" },
+    { "value": "onedark", "label": "One Dark" },
+    { "value": "tokyonight", "label": "Tokyo Night" },
+    { "value": "catppuccin", "label": "Catppuccin" },
+    { "value": "cyberpunk", "label": "Cyberpunk" }
+  ],
+  "personal": {
+    "name": "BitWeaver",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "email": "weaver@email.com",
+    "phone": "+1 (555) 123-4567",
+    "experience": "5+ years",
+    "passion": "Building scalable solutions",
+    "bio": [
+      "I'm a passionate software engineer with over 5 years of experience building scalable web applications and cloud infrastructure. My journey began with a fascination for solving complex problems through code, and it has evolved into a career focused on creating robust, user-centric solutions that make a real impact.",
+      "Throughout my career, I've had the opportunity to work across the full technology stack, from crafting intuitive user interfaces with React and TypeScript to architecting microservices and deploying them on AWS. I thrive in collaborative environments where I can contribute to both technical architecture decisions and mentor junior developers.",
+      "When I'm not coding, you'll find me exploring the latest in cloud technologies, contributing to open-source projects, or sharing knowledge through technical blog posts. I believe in continuous learning and staying at the forefront of technology trends to deliver innovative solutions."
+    ],
+    "stats": [
+      { "number": "50+", "label": "Projects" },
+      { "number": "5+", "label": "Years" },
+      { "number": "1000+", "label": "Commits" }
+    ],
+    "social": [
+      { "platform": "GitHub", "icon": "fab fa-github", "url": "#" },
+      { "platform": "LinkedIn", "icon": "fab fa-linkedin", "url": "#" },
+      { "platform": "Twitter", "icon": "fab fa-twitter", "url": "#" }
+    ]
+  },
+  "contact": {
+    "message": {
+      "heading": "Ready to start your next project?",
+      "subtext": "I'm always excited to discuss new opportunities and collaborate on innovative solutions."
+    }
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "TechCorp Solutions",
+      "period": "2022 - Present",
+      "description": "Leading a team of 5 developers in building scalable microservices architecture. Implemented CI/CD pipelines reducing deployment time by 60%. Architected cloud-native solutions serving 1M+ users daily."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "InnovateLabs",
+      "period": "2020 - 2022",
+      "description": "Developed and maintained React-based web applications with Node.js backends. Optimized database queries improving performance by 40%. Collaborated with UX team to implement responsive designs."
+    },
+    {
+      "title": "Software Developer",
+      "company": "StartupXYZ",
+      "period": "2019 - 2020",
+      "description": "Built MVP for fintech startup using Python and Django. Integrated payment gateways and implemented security best practices. Participated in agile development cycles and code reviews."
+    },
+    {
+      "title": "Junior Developer",
+      "company": "WebSolutions Inc",
+      "period": "2018 - 2019",
+      "description": "Started career developing WordPress themes and custom plugins. Learned modern JavaScript frameworks and database design. Contributed to client projects and internal tools development."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Frontend Development",
+      "icon": "fab fa-react",
+      "technologies": ["React", "TypeScript", "Vue.js", "Next.js", "Tailwind CSS", "SASS", "Webpack"]
+    },
+    {
+      "title": "Backend Development",
+      "icon": "fas fa-server",
+      "technologies": ["Node.js", "Python", "Express", "Django", "PostgreSQL", "MongoDB", "Redis"]
+    },
+    {
+      "title": "DevOps & Cloud",
+      "icon": "fas fa-cloud",
+      "technologies": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "Jenkins", "Nginx"]
+    },
+    {
+      "title": "Tools & Others",
+      "icon": "fas fa-tools",
+      "technologies": ["Git", "Linux", "GraphQL", "REST APIs", "Microservices", "Agile", "TDD"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-stack e-commerce solution built with React and Node.js, featuring real-time inventory management, secure payment processing with Stripe, and advanced analytics dashboard.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Redis", "AWS", "Docker"]
+    },
+    {
+      "title": "Real-time Analytics Dashboard",
+      "description": "Interactive dashboard for real-time data visualization using D3.js and WebSocket connections. Features include customizable charts, real-time alerts, and data export functionality.",
+      "technologies": ["TypeScript", "D3.js", "WebSocket", "Express", "MongoDB", "Jest"]
+    },
+    {
+      "title": "Social Media Dashboard",
+      "description": "Modern social media management platform built with Vue.js and Firebase. Features real-time post scheduling, analytics tracking, and multi-platform integration.",
+      "technologies": ["Vue.js", "Firebase", "JavaScript", "CSS"]
+    }
+  ]
+}
