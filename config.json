@@ -51,10 +51,10 @@
   "personal": {
     "name": "BitWeaver",
     "title": "Software Engineer",
-    "location": "San Francisco, CA",
-    "email": "weaver@email.com",
-    "phone": "+1 (555) 123-4567",
-    "experience": "5+ years",
+    "location": "Bangalore, India",
+    "email": "aman.kumar.iiitr@gmail.com",
+    "phone": "+91 8858476953",
+    "experience": "2+ years",
     "passion": "Building scalable solutions",
     "bio": [
       "I'm a passionate software engineer with over 5 years of experience building scalable web applications and cloud infrastructure. My journey began with a fascination for solving complex problems through code, and it has evolved into a career focused on creating robust, user-centric solutions that make a real impact.",
@@ -67,9 +67,9 @@
       { "number": "1000+", "label": "Commits" }
     ],
     "social": [
-      { "platform": "GitHub", "icon": "fab fa-github", "url": "#" },
-      { "platform": "LinkedIn", "icon": "fab fa-linkedin", "url": "#" },
-      { "platform": "Twitter", "icon": "fab fa-twitter", "url": "#" }
+      { "platform": "GitHub", "icon": "fab fa-github", "url": "https://github.com/roced-spec" },
+      { "platform": "LinkedIn", "icon": "fab fa-linkedin", "url": "https://linkedin.com/in/bitweaver" },
+      { "platform": "Twitter", "icon": "fab fa-twitter", "url": "https://x.com/BitWeaver" }
     ]
   },
   "contact": {
