@@ -4,7 +4,8 @@
     "logo": "{ weaver.dev }",
     "copyright": "© 2024 BitWeaver. All rights reserved."
   },
-  "sectionOrder": ["home", "about", "experience", "projects", "skills", "contact"],
+  "sectionOrder": ["home", "about", "projects", "skills", "contact"],
+  "availableSections": ["home", "about", "experience", "projects", "skills", "contact"],
   "sections": {
     "home": {
       "title": "Home",
